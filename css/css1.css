@@ -1,0 +1,341 @@
+.about-card h4 {
+    color: #710125;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+.about-card h5 {
+    color: #710125;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.about-card {
+    text-align: center;
+    font-weight: 600;
+    margin: 30px 350px;
+}
+
+.about-card1 {
+    display: flex;
+    flex-direction: column;
+    gap: 200px;
+    align-items: center;
+    margin: 0 70px;
+}
+
+.about-card2 h5 {
+    font-weight: 600;
+    color: #710125;
+    margin-bottom: 20px;
+}
+
+.about-card2 {
+    text-align: center;
+    font-weight: 600;
+}
+
+.about-card4 {
+    text-align: center;
+    margin: 30px 220px;
+    font-weight: 600;
+}
+
+.about-card3 {
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    padding: 30px 50px;
+    margin-bottom: 35px;
+}
+
+.about-card5 {
+    display: flex;
+    flex-direction: column;
+    background-image: url('../images/back1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    gap: 20px;
+    background-color: #fce4e4 !important;
+}
+
+.about2 img {
+    width: 350px;
+    height: 380px;
+    object-fit: contain;
+}
+
+.about1 {
+    font-weight: 600;
+    font-size: 16px;
+    text-align: justify;
+    margin: 30px;
+}
+
+.about-card6 {
+    height: 50px;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.about-card3 h5 {
+    color: red;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.div-cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    gap: 50px
+}
+
+.div-card {
+    width: 220px;
+    height: 70px;
+    background-color: rgba(186, 20, 59, 0.966);
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 15px;
+    font-weight: 600;
+}
+
+.div-card1 {
+    width: 220px;
+    height: 70px;
+    background-color: rgb(252, 226, 226);
+    color: rgba(186, 20, 59, 0.966);
+    text-align: center;
+    font-size: 22px;
+    border-radius: 15px;
+    font-weight: 600;
+}
+
+.div-card2 {
+    width: 220px;
+    height: 70px;
+    background-color: rgba(186, 20, 59, 0.966);
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 15px;
+    font-weight: 600;
+}
+
+#section3 h4 {
+    text-align: center;
+    font-weight: 600;
+    color: #710125;
+    font-size: 24px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.contact-form{padding: 20px 30px;border-right: 1px solid black;position: relative;margin-bottom: 30px;}
+.pa-sup{color: red;}
+.contact-form p{font-weight: 600;}
+.contact-grid{display: grid;grid-template-columns: repeat(2, 1fr);gap:20px}
+.contact-form input{border-radius: 10px;border:1px solid black;width:100%;height: 40px;margin-top: 10px;}
+.contact-form textarea{border-radius: 10px;border: 1px solid black;width:100%;height: 150px;margin-top: 10px;resize: none;}
+.contact-btn{width:100px;height: 40px;border-radius: 15px;border: none;background-color: rgb(199, 2, 2);color:white;font-size: 18px;margin-left: 200px;}
+.contactalert{display: none;background-color: white;font-size: 24px;color: #710125;justify-content: center;align-items: center;position: absolute;width:100%;height: 100%;inset: 0;}
+.contact-card h5{margin-top: 20px;color:#710125;font-weight: 600;margin-bottom: 0;}
+.pa-red{color:rgb(215, 3, 3);font-weight: 600;font-size: 18px;}
+.pa-red1{color:rgb(215, 3, 3);font-weight: 600;font-size: 18px;margin-top: 30px;margin-bottom: 0;}
+.contact-card p{font-weight: 600;margin-bottom: 0;}
+.pa-blue{font-weight: 600;color: rgba(0, 0, 255, 0.498);}
+.dessert-card{width:220px;height: 320px;border: 1px solid black;padding: 10px;border-radius: 10px;background-color: #fdeeee;margin-bottom: 20px;}
+
+.dessert-pa{font-size: 18px;color: rgb(162, 4, 4);font-weight: 600;margin-bottom:0;}
+.dessert-card p{margin-bottom: 0;font-weight: 600;}
+.dessert-btn{width:120px;height:30px;border:1px solid black;background-color: rgba(216, 36, 36, 0.785);color:white;border-radius: 10px;font-weight: 600;margin-left: 40px;}
+.pastry1{background-image: url("../images/pastry/butter.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.pastry1:hover{background-image: url("../images/pastry/butter1.png");}
+.pastry2{background-image: url("../images/pastry/black.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.pastry2:hover{background-image: url("../images/pastry/black1.png");}
+.pastry3{background-image: url("../images/pastry/red.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.pastry3:hover{background-image: url("../images/pastry/red1.png");}
+.brownie1{background-image: url("../images/brownie/kitkatbrow.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.brownie1:hover{background-image: url("../images/brownie/kitkatbrow1.png");}
+.brownie2{background-image: url("../images/brownie/classicwalbrownie.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.brownie2:hover{background-image: url("../images/brownie/classicwalbrownie1.png");}
+.brownie3{background-image: url("../images/brownie/doublechobrownie1.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.brownie3:hover{background-image: url("../images/brownie/doublechobrownie.png");}
+.jar1{background-image: url("../images/jar/Component\ 12.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.jar1:hover{background-image: url("../images/jar/Component\ 13.png");}
+.jar2{background-image: url("../images/jar/Component\ 8.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.jar2:hover{background-image: url("../images/jar/Component\ 9.png");}
+.jar3{background-image: url("../images/jar/Component\ 10.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.jar3:hover{background-image: url("../images/jar/Component\ 11.png");}
+.tea1{background-image: url("../images/teacake/Component\ 14.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tea1:hover{background-image: url("../images/teacake/Component\ 15.png");}
+.tea2{background-image: url("../images/teacake/marble.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tea2:hover{background-image: url("../images/teacake/marble1.png");}
+.tea3{background-image: url("../images/teacake/Component\ 18.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tea3:hover{background-image: url("../images/teacake/Component\ 19.png");}
+.cup1{background-image: url("../images/cupcake/Component\ 20.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.cup1:hover{background-image: url("../images/cupcake/Component\ 21.png");}
+.cup2{background-image: url("../images/cupcake/Component\ 24.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.cup2:hover{background-image: url("../images/cupcake/Component\ 23.png");}
+.cup3{background-image: url("../images/cupcake/Component\ 22.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.cup3:hover{background-image: url("../images/cupcake/Component\ 25.png");}
+.tart1{background-image: url("../images/Tart/Component\ 26.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tart1:hover{background-image: url("../images/Tart/Component\ 27.png");}
+.tart2{background-image: url("../images/Tart/Component\ 28.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tart2:hover{background-image: url("../images/Tart/Component\ 31.png");}
+.tart3{background-image: url("../images/Tart/Component\ 30.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tart3:hover{background-image: url("../images/Tart/Component\ 29.png");}
+.combo1{background-image: url("../images/combo/Component\ 32.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;}
+.combo1:hover{background-image: url("../images/combo/Component\ 33.png");}
+.combo2{background-image: url("../images/combo/Component\ 36.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;}
+.combo2:hover{background-image: url("../images/combo/Component\ 35.png");}
+.combo3{background-image: url("../images/combo/Component\ 34.png");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;}
+.combo3:hover{background-image: url("../images/combo/Component\ 37.png");}
+.pastry4{background-image: url("../images/pastry/pistapasrty.webp");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.pastry4:hover{background-image: url("../images/pastry/pistapasrty1.jpg");}
+.pastry5{background-image: url("../images/pastry/chocpastry.jfif");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.pastry5:hover{background-image: url("../images/pastry/chocpastry1.jpg");}
+.pastry6{background-image: url("../images/pastry/whiteforpastry.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.pastry6:hover{background-image: url("../images/pastry/whiteforpastry1.jpg");}
+.brownie4{background-image: url("../images/brownie/browniewithcreamchee.webp");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.brownie4:hover{background-image: url("../images/brownie/browniewithcreamchee1.jpg");}
+.brownie5{background-image: url("../images/brownie/egglessbrownie.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.brownie5:hover{background-image: url("../images/brownie/egglessbrownie1.jpg");}
+.brownie6{background-image: url("../images/brownie/nuts\ brownie.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.brownie6:hover{background-image: url("../images/brownie/nuts\ brownie1.jpg");}
+.tart4{background-image: url("../images/Tart/fruit.jfif");background-position: center;background-repeat: no-repeat;background-size: contain;width:200px;height: 200px;margin-bottom: 20px;}
+.tart4:hover{background-image: url("../images/Tart/fruit1.jpg");}
+.tart5{background-image: url("../images/Tart/vanillatar.webp");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tart5:hover{background-image: url("../images/Tart/vanillatar1.jpg");}
+.tart6{background-image: url("../images/Tart/trays.webp");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tart6:hover{background-image: url("../images/Tart/trays1.jpg");}
+.tea4{background-image: url("../images/teacake/bananatea.avif");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tea4:hover{background-image: url("../images/teacake/bananatea1.jpg");}
+.tea5{background-image: url("../images/teacake/nutstea.jfif");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tea5:hover{background-image: url("../images/teacake/nutstea1.jpg");}
+.tea6{background-image: url("../images/teacake/boba-milk-tea-cake.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.tea6:hover{background-image: url("../images/teacake/boba-milk-tea-cake1.jpg");}
+.cup4{background-image: url("../images/cupcake/chococup1.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.cup4:hover{background-image: url("../images/cupcake/chococup.jpg");}
+.cup5{background-image: url("../images/cupcake/partycupcake1.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.cup5:hover{background-image: url("../images/cupcake/partycatcup.webp");}
+.cup6{background-image: url("../images/cupcake/pistacup1.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.cup6:hover{background-image: url("../images/cupcake/pistacup.jpg");}
+.jar4{background-image: url("../images/jar/cakejar.jfif");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;}
+.jar4:hover{background-image: url("../images/jar/cakejar1.jpg");}
+.jar5{background-image: url("../images/jar/combojar.jfif");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.jar5:hover{background-image: url("../images/jar/combojar1.jpg");}
+.jar6{background-image: url("../images/jar/jar.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
+.jar6:hover{background-image: url("../images/jar/jar1.jpg");}
+.combo4{background-image: url("../images/combo/6-pcs-jar-cake.jpg");background-position: center;background-repeat: no-repeat;background-size: contain;width:200px;height: 200px;}
+.combo4:hover{background-image: url("../images/combo/6-pcs-jar-cake1.jpg");}
+.combo5{background-image: url("../images/combo/combopastry.avif");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;}
+.combo5:hover{background-image: url("../images/combo/combopastry1.jpg");}
+.combo6{background-image: url("../images/combo/cupcake.webp");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;}
+.combo6:hover{background-image: url("../images/combo/cupcake1.jpg");}
+.order-form{padding: 20px;position: relative;height:780px;}
+.orderpick, .orderdelivery{padding-left:20px;border-left: 1px solid black;font-weight: 600;display: none;position: absolute;flex-direction: column;top:100px;width: 100%;}
+.btn-para{display: flex;justify-content: center;align-items: center;gap:50px}
+.order-grid{display: grid;grid-template-columns: repeat(2, 1fr);gap:20px}
+.note-pa{color: red;}
+.orderpick input{width:100%;height: 40px;border-radius: 10px;border: 1px solid black;}
+.orderdelivery input{width:100%;height: 40px;border-radius: 10px;border: 1px solid black;}
+.orderpick textarea{width:100%;height: 140px;border-radius: 10px;border: 1px solid black;resize: none;}
+.orderdelivery textarea{width:100%;height: 140px;border-radius: 10px;border: 1px solid black;resize: none;}
+.delivery-btn, .pick-btn{width:100px;height:40px;border: 1px solid black;color: #710125;font-size: 18px;background-color: white;font-weight: 600;border-radius: 10px;}
+.orderalert{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.4);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+.alertcard{width:500px;height: 200px;background-color: #fce4e4;padding: 15px;border-radius: 10px;}
+.alertpar1{text-align: center;font-size: 22px;font-weight: 600;}
+.alertpar2{text-align: center;font-weight: 600;}
+.order-card h5{color: #710125;font-weight: 600;margin-top: 20px;font-size: 24px;margin-bottom: 0;}
+.order-card p{margin-bottom: 0;font-weight: 600;}
+.order-card{width:100%;margin-bottom: 20px;}
+.order-img{width:80%;}
+@media (min-width:730px) and (max-width:1024px) {
+    .about-card1 {
+        margin: 0 20px !important;
+        gap: 50px
+    }
+
+    .about-cardimg {
+        width: 90%
+    }
+
+    .about-card4 {
+        margin: 30px
+    }
+
+    .about-card3 {
+        padding: 20px;
+        height: auto;
+    }
+
+    .about1 {
+        margin: 10px;
+    }
+
+    .about-card5 {
+        height: auto;
+    }
+
+    .about-card {
+        margin: 30px;
+    }
+
+    .about2 img {
+        height: auto;
+    }
+    .contact-img{width:100%}
+    .order-form{width:100%;}
+    .order-cardimg{width:100%;height: 80%;}
+}
+
+@media (max-width:730px) {
+    .about-card {
+        margin: 30px 80px
+    }
+
+    .about-card3 {
+        padding: 20px;
+        height: auto;
+        flex-direction: column;
+    }
+
+    .about1 {
+        margin: 10px;
+    }
+
+    .about-card5 {
+        height: auto;
+    }
+
+    .about-card4 {
+        margin: 30px
+    }
+
+    .about-card1 {
+        margin: 0 20px !important;
+        gap: 50px
+    }
+    
+    
+}
