@@ -418,12 +418,17 @@ footer h4 {
     }
     .navbar-nav{gap:10px;}
     .search-modal{left:200px;top:10px}
+     .foot-btn {
+        bottom: -600px;
+        font-size: 12px;
+        width: auto
+    }
 
 }
 
 @media (max-width:730px) {
     .foot-btn {
-        bottom: -3270px;
+        bottom: -3670px;
         font-size: 12px;
         width: auto
     }
@@ -436,3 +441,4 @@ footer h4 {
     .dessertlist{left:100px;}
     .search-modal{left:200px;top:10px}
 }
+
