@@ -211,7 +211,7 @@
 .brownie5:hover{background-image: url("../images/brownie/egglessbrownie1.jpg");}
 .brownie6{background-image: url("../images/brownie/nuts\ brownie.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
 .brownie6:hover{background-image: url("../images/brownie/nuts\ brownie1.jpg");}
-.tart4{background-image: url("../images/Tart/fruit.jfif");background-position: center;background-repeat: no-repeat;background-size: contain;width:200px;height: 200px;margin-bottom: 20px;}
+.tart4{background-image: url("../images/Tart/fruit.jfif");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
 .tart4:hover{background-image: url("../images/Tart/fruit1.jpg");}
 .tart5{background-image: url("../images/Tart/vanillatar.webp");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
 .tart5:hover{background-image: url("../images/Tart/vanillatar1.jpg");}
@@ -235,7 +235,7 @@
 .jar5:hover{background-image: url("../images/jar/combojar1.jpg");}
 .jar6{background-image: url("../images/jar/jar.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;margin-bottom: 20px;}
 .jar6:hover{background-image: url("../images/jar/jar1.jpg");}
-.combo4{background-image: url("../images/combo/6-pcs-jar-cake.jpg");background-position: center;background-repeat: no-repeat;background-size: contain;width:200px;height: 200px;}
+.combo4{background-image: url("../images/combo/6-pcs-jar-cake.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;}
 .combo4:hover{background-image: url("../images/combo/6-pcs-jar-cake1.jpg");}
 .combo5{background-image: url("../images/combo/combopastry.avif");background-position: center;background-repeat: no-repeat;background-size: cover;width:200px;height: 200px;}
 .combo5:hover{background-image: url("../images/combo/combopastry1.jpg");}
@@ -338,4 +338,5 @@
     }
     
     
+
 }
